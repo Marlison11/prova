@@ -6351,8 +6351,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2d6f7258310e949449621befa24eeab9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  velocidade: 40
-  forcaDoPulo: 4
+  velocidade: 10
+  forcaDoPulo: 8
 --- !u!95 &1886774555
 Animator:
   serializedVersion: 7
